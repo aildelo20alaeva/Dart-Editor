@@ -214,4 +214,4 @@ Dart Editor is offered as a full free version with all features and updates incl
 Ready to elevate your programming with Dart? **Download Dart Editor today and unlock your full coding potential!**
 
 ---
-**Last updated:** 2026-10-01 21:37:31 UTC
+**Last updated:** 2026-10-02 01:21:51 UTC
